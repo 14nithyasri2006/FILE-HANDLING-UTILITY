@@ -33,4 +33,8 @@ Technologies Used:
 *JDK (Java Development Kit)
 *Command Line / IDE (Eclipse, IntelliJ, or VS Code)
 
+OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/384decb5-404e-4997-ab7d-18d51bd1f627" />
+
 
